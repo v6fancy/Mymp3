@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/000.jpg</file>
+        <file>images/exit.png</file>
+        <file>images/gtk-media-next-ltr.png</file>
+        <file>images/gtk-media-next-rtl.png</file>
+        <file>images/gtk-media-pause.png</file>
+        <file>images/gtk-media-play-ltr.png</file>
+        <file>images/gtk-media-stop.png</file>
+        <file>images/gtk-open.png</file>
+        <file>images/ico.ico</file>
+        <file>images/icon.ico.png</file>
+        <file>images/list.png</file>
+        <file>images/lrc.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/previous.png</file>
+        <file>images/remove.png</file>
+        <file>images/sound.png</file>
+        <file>images/stop.png</file>
+        <file>images/VMP2.png</file>
+    </qresource>
+</RCC>
